@@ -20,5 +20,4 @@ object MonoidEx extends App {
 
 
 
-
 }
